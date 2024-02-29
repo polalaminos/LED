@@ -19,7 +19,7 @@ void loop() {
   digitalWrite(LED_FLASH,LOW);
   delayMicroseconds(0.1);
 }
-// Hola 
+ 
 /* LED 1
 // put your main code here, to run repeatedly:
   Serial.println("ledhigh");
